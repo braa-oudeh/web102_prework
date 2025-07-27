@@ -17,18 +17,19 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-[x] Implemnted a search bar in the website that looks up names of games dynamically
-[x] Implemented a link that allows the user to scroll to the games section directly without manually scrolling through the page
+* [x] List anything else that you can get done to improve the app functionality!
+* [x] Implemnted a search bar in the website that looks up names of games dynamically
+* [x] Implemented a link that allows the user to scroll to the games section directly without manually scrolling through the page
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/cf075e2a33954e41b01e27ee60f635ff?sid=6864822c-197b-49b4-9be7-02f943bef66b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+https://www.loom.com/share/cf075e2a33954e41b01e27ee60f635ff?sid=6864822c-197b-49b4-9be7-02f943bef66b 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
