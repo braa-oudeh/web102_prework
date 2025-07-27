@@ -9,9 +9,27 @@ body {
     width: 50px;
 }
 
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: lightblue;
+}
+
+#show-games-navbar {
+    margin-left: 600px;
+    color:rgba(32, 83, 17, 0.435);
+    text-decoration: none;
+}
+
+.search-wrapper {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
 .header {
     display: flex;
-    background-color: lightblue;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -72,4 +90,12 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.stats-container
+{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
